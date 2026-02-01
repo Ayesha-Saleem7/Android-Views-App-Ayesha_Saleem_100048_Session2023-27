@@ -1,4 +1,5 @@
 Android-View-Practice-App
+
 Assignment No. 1 – Mobile App. Development
 
 Project Overview:
